@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "otis",
+  "version": "0.4.0",
+  "description": "Free business records through your AI: clients, work, expenses, invoices, payments, timers, business settings, tax settings and export.",
+  "author": {
+    "name": "Otisbase",
+    "url": "https://otisbase.com"
+  },
+  "homepage": "https://otisbase.com/skills",
+  "repository": "https://github.com/otisbase/otis-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "otis",
+    "otisbase",
+    "otis-mcp"
+  ]
+}
